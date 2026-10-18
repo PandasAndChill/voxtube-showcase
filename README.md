@@ -12,7 +12,8 @@ research questions, provided we don't mistake it for a representative survey.
 
 [![VoxTube: from a signal to supporting evidence and a repeat comparison](videos/poster.jpg)](videos/voxtube-walkthrough.mp4)
 
-**[Watch the 60-second walkthrough](videos/voxtube-walkthrough.mp4)** · captioned, sound not required.
+**[Open the 60-second walkthrough](videos/voxtube-walkthrough.mp4)** · captioned, sound not required.
+On GitHub's file page, select **View raw** or the download icon to open/save the MP4.
 Actual prototype screenshots, presented as a guided screen walkthrough—not a live collection or AI-generation recording.
 All comments, classifications and history shown are **synthetic**. [Text version](WALKTHROUGH.md).
 
