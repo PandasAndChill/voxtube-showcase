@@ -2,6 +2,8 @@
 
 **Real discussion. Local model inference. Interpretation that stays open to challenge.**
 
+**[Watch the 2 min 53 sec real-case film](videos/voxtube-real-case.mp4)** · [Transcript](VIDEO_TRANSCRIPT.md) · [Back to the showcase](README.md)
+
 This case examines 75 public comments from one Hacker News discussion of Ferrari
 Luce. It demonstrates how VoxTube can help a marketing or consumer-insights team
 triage launch reaction, inspect the wording behind a signal, and decide what to
@@ -61,6 +63,25 @@ This is the central analytical choice: **read the evidence before treating a
 dashboard number as an answer**. The model disagreement itself is useful evidence
 about the limits of automation.
 
+## The workflow demonstrated on screen
+
+On 23 October, the same frozen sample was opened in the actual application. A
+wording filter isolated the Prius comparison; that one comment was selected as
+evidence and sent for a live local Gemma review. The interface returned a negative
+second reading while preserving the initial positive label.
+
+An analyst note was then saved with its supporting comment and original scope
+(one selected comment from the 75-comment run). The downloaded record was checked
+for that note, base and source link. Its recommendation: investigate exterior
+distinctiveness separately from interior technology, and validate with relevant
+prospective buyers before changing launch messages.
+
+The film combines captured selection, local-review and save actions with held
+screens and explanatory cards. The dataset is frozen, not recollected on camera;
+narration is synthetic, not Petr's voice. The footage is not a continuous screen
+recording. Nonessential quotations are masked; the short diagnostic comparison
+is visible to make the interpretation inspectable.
+
 ## How a marketing or research team could use this
 
 - **Launch communications:** investigate whether design explanations address the
@@ -102,5 +123,6 @@ not presented here as a validated finding.
 
 No raw comment dataset, author list, model weights or application source is
 distributed with this case. This is not a YouTube-derived analysis; blurring a
-screen would not resolve YouTube analytics permission requirements. Public-media
-review remains separate from the private analytical rehearsal.
+screen would not resolve YouTube analytics permission requirements. The few public
+screens show one short, source-linked comment for critical analysis, not a reusable
+collection of platform content.

@@ -6,7 +6,9 @@
 
 **I built a local-AI research tool to turn public product discussion into questions a marketing team can act on. Then I tested where its answers could mislead us.**
 
-**[Read the real Ferrari Luce case →](REAL_ANALYSIS.md)** · [See the interface](#see-the-tool) · **[Meet me on LinkedIn →](https://www.linkedin.com/in/pshovoldaev/)**
+**[Watch the real-case film →](videos/voxtube-real-case.mp4)** · **[Read the Ferrari Luce case →](REAL_ANALYSIS.md)** · **[Meet me on LinkedIn →](https://www.linkedin.com/in/pshovoldaev/)**
+
+*2 min 53 sec · narrated and captioned. On GitHub's video page, select **View raw** or download to play. [Read the transcript](VIDEO_TRANSCRIPT.md).*
 
 *Petr Shovoldaev · Consumer & market insights · Independent personal project*
 
@@ -56,18 +58,35 @@ Time savings and commercial impact have not been measured.
 
 ## See the tool
 
-![VoxTube Evidence screen: filters, source-linked wording and an analyst finding in the synthetic sample](screenshots/02-evidence.jpg)
+![Actual Ferrari Luce review: the initial positive classifier label alongside Gemma's negative second reading and its explanation](screenshots/real-local-review.jpg)
 
-**[Watch the 60-second interface walkthrough →](videos/voxtube-walkthrough.mp4)** · [Text walkthrough](WALKTHROUGH.md)
+**[Watch the real-case film →](videos/voxtube-real-case.mp4)** · [Transcript and production disclosure](VIDEO_TRANSCRIPT.md)
 
-The screenshot and video show the working prototype with **synthetic Orion E5
-data**, not the Ferrari sample. The video is a captioned still-screen walkthrough,
-not a live AI recording. On GitHub's video page, select **View raw** or download
-to play it. The **[real-analysis case](REAL_ANALYSIS.md)** documents the separate
-Ferrari run and model disagreement; a live case-study video is not included yet.
+The new film uses **real Ferrari Luce data in the actual application**. It combines
+recorded evidence-selection, local-model review and save actions with held screen
+captures and explanatory cards. Narration is synthetic—not my voice. It replays a
+frozen sample rather than collecting new comments. Nonessential quotations are
+masked; one short source-linked comparison remains visible for critical analysis.
+
+The analyst finding was saved with its evidence and downloaded as a record. It
+proposes a research question; it does not establish market prevalence or a causal
+effect. [Inspect the full case and limitations](REAL_ANALYSIS.md).
 
 <details>
-<summary>More interface views: overview and repeat-study comparison</summary>
+<summary>Real overview and saved evidence note</summary>
+
+![Actual overview: 15 of 75 comments receive negative sentiment and exterior-design labels; nonessential quote withheld](screenshots/real-overview.jpg)
+
+![Actual saved analyst finding with its original one-comment scope and evidence](screenshots/real-finding.jpg)
+
+</details>
+
+<details>
+<summary>Earlier synthetic demo: additional interface capabilities</summary>
+
+The earlier **synthetic Orion E5** example illustrates interface capabilities,
+including a fictional two-wave comparison. It is not a live AI recording or part
+of the real Ferrari case. [60-second synthetic walkthrough](videos/voxtube-walkthrough.mp4) · [Text version](WALKTHROUGH.md).
 
 ![Overview with a small, explicitly bounded synthetic signal](screenshots/01-overview.jpg)
 
@@ -100,7 +119,7 @@ judgment fits your team, **[let's talk](https://www.linkedin.com/in/pshovoldaev/
 You can also explore **[PlaceSignal](https://github.com/PandasAndChill/placesignal-showcase)**,
 my companion location-review project.
 
-<sub>Portfolio showcase, not a downloadable product. Application code, raw comments,
+<sub>Portfolio showcase, not a downloadable product. Application code, the raw dataset,
 credentials and model weights remain private. No employer data is included.
 The [MIT notice](LICENSE) covers the included showcase materials, not third-party
 platform content or model weights.</sub>
