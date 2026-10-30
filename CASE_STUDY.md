@@ -1,8 +1,8 @@
 # Renault 5 E-Tech vs Hyundai Inster: two small EVs, one public conversation
 
-**Real YouTube comments from the UK, France and Germany, analysed on a laptop in October 2026.**
+**Real YouTube comments from the UK, France and Germany, analyzed on a laptop in October 2026.**
 
-[Back to the showcase](README.md) · [40-second walkthrough](videos/voxtube-walkthrough.mp4)
+[Back to the showcase](README.md) · [50-second walkthrough](videos/voxtube-walkthrough.mp4)
 
 ## The question
 
@@ -16,7 +16,7 @@ investigated next?
 | --- | --- | --- |
 | Markets and period | UK, France, Germany · last 12 months | Same |
 | Videos | 15 reviews, tests and comparisons | 15 reviews, tests and comparisons |
-| Comments analysed | 2,668 | 590 |
+| Comments analyzed | 2,668 | 590 |
 | Bots, spam and junk set aside | 22 | 10 |
 
 Both studies used the same markets, period and depth — which is what VoxTube's "compare with an earlier analysis"
@@ -24,7 +24,7 @@ sets up automatically.
 
 ## What came out
 
-**Share of conversation.** Under the analysed videos, 76% of the comments were about the Renault 5 and 24% about
+**Share of conversation.** Under the analyzed videos, 76% of the comments were about the Renault 5 and 24% about
 the Inster. The Renault 5 is simply the car people are talking about.
 
 **Overall tone is the same — the reasons are not.** Both land at a net sentiment of +15 (Renault 5: 43% positive,
@@ -41,8 +41,8 @@ the Inster. The Renault 5 is simply the car people are talking about.
 **What people repeat.**
 
 - *Renault 5* — praised for an attractive retro design (the single most repeated idea) and better driving dynamics;
-  criticised for a high purchase price, short range, limited rear space and confusing naming.
-- *Hyundai Inster* — praised as a practical small car with a versatile interior and relaxed rear seats; criticised
+  criticized for a high purchase price, short range, limited rear space and confusing naming.
+- *Hyundai Inster* — praised as a practical small car with a versatile interior and relaxed rear seats; criticized
   for a high price and a divisive design, with a few comments raising charging-unit (ICCU) defect concerns.
 
 **What people ask for.** For the Inster: an LFP battery option, a higher load rating and rear air vents.
@@ -53,7 +53,7 @@ Inster.
 
 ## What a team could do with it
 
-1. **Test the price story, not the design story,** for the Inster: its design divides, but its price is criticised
+1. **Test the price story, not the design story,** for the Inster: its design divides, but its price is criticized
    more than the Renault's while its quality and features are praised more.
 2. **Probe "practical vs. emotional"** in interviews: the two cars win on different grounds, so a message test
    could separate rational from emotional appeal.
@@ -66,5 +66,5 @@ Inster.
   hypotheses to test.
 - The Inster sample is smaller (590 comments), so its theme figures are less stable; VoxTube flags small samples.
 - "Market" means where a video was found, not where a commenter lives.
-- Sentiment and themes are machine-labelled. Every figure links back to its comments, and labels can be corrected.
+- Sentiment and themes are machine-labeled. Every figure links back to its comments, and labels can be corrected.
 - Comments shown in screenshots are public YouTube comments with commenter names blurred.

@@ -3,11 +3,11 @@
 **A desktop research tool I designed and built to read a product's public reception on YouTube — across
 markets and languages — and turn thousands of comments into findings a marketing team can act on.**
 
-**[Watch the 40-second walkthrough →](videos/voxtube-walkthrough.mp4)** · **[Read the Renault 5 vs Hyundai Inster case →](CASE_STUDY.md)** · **[Meet me on LinkedIn →](https://www.linkedin.com/in/pshovoldaev/)**
+**[Watch the 50-second walkthrough →](videos/voxtube-walkthrough.mp4)** · **[Read the Renault 5 vs Hyundai Inster case →](CASE_STUDY.md)** · **[Meet me on LinkedIn →](https://www.linkedin.com/in/pshovoldaev/)**
 
 *Petr Shovoldaev · Consumer & market insights · Independent personal project*
 
-![VoxTube search: one bar, countries inside it, the scope underneath](screenshots/01-search.jpg)
+![VoxTube home: one search bar with the countries inside it, the scope underneath, then Find videos](screenshots/01-search.jpg)
 
 ## The problem
 
@@ -19,10 +19,10 @@ takes days; a single sentiment score hides what people actually mean.
 
 | A team needs to… | VoxTube… |
 | --- | --- |
-| **Find the conversation that matters** | Searches YouTube market by market (51 countries), adds the curated reviewers and press for the industry, or reads only the channels or videos you choose |
+| **Find the conversation that matters** | Searches YouTube country by country (in each country's language), or only a saved list of channels; then shows what it found — views, comments, channels, countries, video types and dates — so off-topic videos are dropped before any analysis |
 | **Separate signal from noise** | Sets aside bots, spam and junk, and says how many and why |
-| **Read every language** | Analyses comments in their own language and translates the most-liked ones for reading |
-| **Know what people mean, not just a score** | Groups what people repeat into ideas — "attractive retro design", "high purchase price" — coloured by how they feel, with sarcasm read as meant |
+| **Read every language** | Analyzes comments in their own language and translates the most-liked ones for reading |
+| **Know what people mean, not just a score** | Groups what people repeat into ideas — "attractive retro design", "high purchase price" — colored by how they feel, with sarcasm read as meant |
 | **Trust the result** | Every figure links back to the comments behind it; the analyst can correct any label, and the figures update |
 | **Act on it** | Surfaces likely buyers, upvoted complaints, unanswered questions and the features people ask for |
 | **Compare** | Puts a product and its rivals side by side: share of conversation, sentiment, themes and where each one wins |
@@ -34,7 +34,12 @@ data is sent to a cloud AI service.
 
 ## See it
 
-**The summary an executive reads first** — one headline, four numbers, what people praise and criticise, each with
+**Check the sample before analyzing it** — the videos found, how they spread across countries, channels, video
+types and time, with the most viewed on-topic ones already ticked.
+
+![Videos found for “Renault 5 E-Tech”: coverage by video type, country and channel, and a timeline](screenshots/09-review-coverage.jpg)
+
+**The summary an executive reads first** — one headline, four numbers, what people praise and criticize, each with
 a real quote.
 
 ![Study summary for the Renault 5 E-Tech: 2,668 comments from UK, France and Germany](screenshots/04-summary.jpg)
@@ -57,7 +62,7 @@ praise, orange criticism.
 
 ![Each control under the search bar opens a small editor: here, how many videos and which ones](screenshots/02-scope-controls.jpg)
 
-![The + button: analyse specific videos, specific channels, or compare with an earlier analysis](screenshots/03-more-ways.jpg)
+![The + button: analyze specific videos, specific channels, or compare with an earlier analysis](screenshots/03-more-ways.jpg)
 
 ![Reading and filtering the comments; commenter names are blurred for sharing](screenshots/07-comments.jpg)
 
